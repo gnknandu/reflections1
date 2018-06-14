@@ -1,0 +1,7 @@
+That means the commit "refactoring collision detection" with commit ID 547f4171a82ec6429d002c1acef357aec41d3f17, is the one that introduced the bug.
+
+
+
+git diff 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a 
+
+original	
